@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 ## ⬆ What I'm up to
 - 🔨 I’m currently ...
-```yaml
+```
 Developing the TriQ(Data Quality Product) and CloudMeter(Cloud Cost Monitoring and Optimization tool)
 ```
   - 🎯 In the near future, I plan to...
@@ -55,7 +55,7 @@ Developing the TriQ(Data Quality Product) and CloudMeter(Cloud Cost Monitoring a
 	- Contribute code to the [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕](https://github.com/torvalds/linux)
 	- Go on world tour.
 	- Start my next Venture
-	- build a forest.
+	- Build a forest.
 --- 
   #### ☁️ Cloud
  <div>
@@ -63,7 +63,3 @@ Developing the TriQ(Data Quality Product) and CloudMeter(Cloud Cost Monitoring a
    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="60" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="60" height="60"/>&nbsp;
   </div>
-
----
-  #### 🧰 DevOps
----  
